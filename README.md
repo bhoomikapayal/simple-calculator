@@ -1,7 +1,7 @@
 # simple-calculator
 Designed-calculator
 
---This calculator is designed with html css and javascript.
+--This calculator is designed with html and css.
 
 
 who can designed this
